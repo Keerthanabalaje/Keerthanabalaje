@@ -3,7 +3,7 @@
 
 - 💡 I’m interested in <b>Front End Development</b>
 
-- 🌐 Know more about me at [My Portfolio](https://keerthanabalaje-portfolio.netlify.app) and [My Resume](https://www.canva.com/design/DAGLkBWxjvU/p4QyAYYK3uNikVWSP68HmQ/view?utm_content=DAGLkBWxjvU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 🌐 Know more about me at [My Portfolio](https://keerthana-vijayabalaje.netlify.app/) and [My Resume](https://www.canva.com/design/DAGLkBWxjvU/p4QyAYYK3uNikVWSP68HmQ/view?utm_content=DAGLkBWxjvU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - 🌱 I’m currently Working <b>Java Script and ReactJs</b>
 
