@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthana Vijayabalaje</h1>
-<h3 align="center">Front End Development(React JS)</h3>
+<h3 align="center">Frontend Developer(React JS)</h3>
 
 - 💡 I’m interested in <b>Front End Development</b>
 
